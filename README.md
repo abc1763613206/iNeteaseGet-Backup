@@ -4,6 +4,10 @@
 [![alt text](https://img.shields.io/github/downloads/xAsiimov/Netease-Get/total.svg)](https://github.com/xAsiimov/Netease-Get/releases/latest)
 
 ---
+
+Download Music Files from Netease Music 从网易云音乐歌单/专辑下载MP3文件
+
+
 Download Music Files from Netease Music
 
 Netease-Get is licensed under Apache License 2.0
